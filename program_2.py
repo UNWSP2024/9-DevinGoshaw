@@ -5,7 +5,7 @@
 # (up to 1000).
 
 #programmer: Devin Goshaw
-#Date:10/30/25
+#Date: 10/30/25
 #program: random number program
 import random
 
